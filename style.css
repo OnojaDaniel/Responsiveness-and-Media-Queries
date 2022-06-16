@@ -58,6 +58,14 @@ p {
     color: white;
     font-size: 16px;
 }
+.textspecial {
+    color: hsl(248, 32%, 49%);
+    font-size: 12px;
+
+}
+.spanspecial {
+    color: red;
+}
 
 
 
